@@ -16,7 +16,7 @@ int main()
         }
         for (int cols = 1; cols<=2*rows-1; cols++)
         {
-            cout<<"*";
+            cout<<"* ";
         }
         
         cout<<endl;
